@@ -1,1 +1,0 @@
-# karen-araujo.github.io
