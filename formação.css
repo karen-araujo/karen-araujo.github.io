@@ -1,0 +1,37 @@
+.Formação {
+  max-width: 1000px;
+  padding: 40px 20px;
+  display: grid;
+  margin: 0 auto;
+  grid-template-columns: 1fr 2fr;
+  gap: 100px;
+  align-items: center;
+  background-color: rgb(41, 38, 38);
+}
+
+.Formação .subtítulo {
+  color: #bbb5b5;
+  font-size: 6.28rem;
+  max-width: 6ch;
+}
+
+.descrição-texto {
+  font-size: 1.5rem;
+  line-height: 1.125;
+  margin-bottom: 60px;
+  max-width: 40ch;
+  color: #494848;
+}
+
+.descrição-texto strong {
+  color: black;
+}
+
+.empresa {
+  display: grid;
+  grid-template-columns: 1fr 2fr 2fr;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  align-items: center;
+  justify-content: center;
+}
